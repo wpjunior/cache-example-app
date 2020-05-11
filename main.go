@@ -18,7 +18,7 @@ func main() {
 <html>
 <body>
    <a href="/cache/1h">One hour cache</a><br/>
-   <a href="/cache/1h/1mb">One hour cache and 10MB de payload</a>
+   <a href="/cache/1h/1mb">One hour cache and 10MB of payload</a>
 </body>
 <html>
 `)
